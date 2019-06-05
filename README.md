@@ -1,5 +1,7 @@
 # Mercedes-Benz-Greener-Manufacturing-Case-Study
 
+Medium blog related to this repo: https://blog.goodaudience.com/stacking-ml-algorithm-for-mercedes-benz-greener-manufacturing-competition-5600762186ae
+
 Problem Statment: Can you cut the time a Mercedes-Benz spends on the test bench? 
 1. Since the first automobile, the Benz Patent Motor Car in 1886, Mercedes-Benz has stood for important automotive innovations. 
 These include, for example, the passenger safety cell with crumple zone, the airbag and intelligent assistance systems. 
